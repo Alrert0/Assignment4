@@ -16,12 +16,12 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/SailaubayevBegaidar/Begaidar4.git
+   https://github.com/Alrert0/Assignment4
    ```
 
 2. Перейдите в директорию проекта:
    ```bash
-   cd Begaidar4
+   cd Mukhammedali4
    ```
 
 3. Установите зависимости:
