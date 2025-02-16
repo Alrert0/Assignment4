@@ -89,4 +89,4 @@
 ## Контакты
 
 По вопросам и предложениям:
-- GitHub: [SailaubayevBegaidar](https://github.com/SailaubayevBegaidar)
+- GitHub: [Mukhammedali](https://github.com/Arlert0)
